@@ -1,12 +1,3 @@
-<style>
-.flex-container {
-    width:50%;
-}
-.icon {
-    width:125px;
-}
-</style>
-
 ###### BINGO!BANGO!BOTTO!
 
 ![bwz3rbot's stats](https://github-readme-stats.vercel.app/api?username=bwz3rbot&show_icons=true&theme=dark)
@@ -40,17 +31,17 @@ We aim to be the leaders in the do-it-yourself adult creator space.
 -   AWS Elastic Beanstalk (hosting server and worker applications)
 -   Docker (deploying stable images to lambda)
 
-<div class="flex-container">
-<img class="icon" src="./icons/nodejs.png" alt="drawing"/>
-<img class="icon" src="./icons/javascript.png" alt="drawing"/>
-<img class="icon" src="./icons/react.png" alt="drawing"/>
-<img class="icon" src="./icons/mui.png" alt="drawing"/>
-<img class="icon" src="./icons/graphql.jpg" alt="drawing"/>
-<img class="icon" src="./icons/postgresql.png" alt="drawing"/>
-<img class="icon" src="./icons/RabbitMQ.png" alt="drawing"/>
-<img class="icon" src="./icons/lambda.png" alt="drawing"/>
-<img class="icon" src="./icons/elastic_beanstalk.webp" alt="drawing"/>
-<img class="icon" src="./icons/docker.webp" alt="drawing"/>
+<div>
+<img width=125 src="./icons/nodejs.png" alt="drawing"/>
+<img width=125 src="./icons/javascript.png" alt="drawing"/>
+<img width=125 src="./icons/react.png" alt="drawing"/>
+<img width=125 src="./icons/mui.png" alt="drawing"/>
+<img width=125 src="./icons/graphql.jpg" alt="drawing"/>
+<img width=125 src="./icons/postgresql.png" alt="drawing"/>
+<img width=125 src="./icons/RabbitMQ.png" alt="drawing"/>
+<img width=125 src="./icons/lambda.png" alt="drawing"/>
+<img width=125 src="./icons/elastic_beanstalk.webp" alt="drawing"/>
+<img width=125 src="./icons/docker.webp" alt="drawing"/>
 <div>
 
 ---
@@ -70,6 +61,6 @@ read and thus easy to maintain. .
 <details closed>
 <summary>Expand for a fun fact about me!</summary>
 <p>I ♡ classic wow</p>
-<img class="icon" src="./icons/wotlk.png" alt="drawing"/>
+<img width=125 src="./icons/wotlk.png" alt="drawing"/>
 
 </details>
