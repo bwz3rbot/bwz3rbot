@@ -12,7 +12,7 @@
 
 I'm a full stack Javascript engineer with **8+ years** of experience.
 
-I excel in data collection and in building large scale applications where
+I accel in data collection and in building large scale applications where
 performance and scalability are of the utmost importance.
 
 Currently I am Lead Developer in charge of a small team for a startup company.
