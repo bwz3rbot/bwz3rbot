@@ -1,6 +1,3 @@
-###### BINGO!BANGO!BOTTO!
-[Visit bingobangobotto.com for a free initial consultation today!](https://bingobangobotto.com)
-
 ![bwz3rbot's stats](https://github-readme-stats.vercel.app/api?username=bwz3rbot&show_icons=true&theme=dark)
 
 [![bwz3rbot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bwz3rbot)](https://github.com/anuraghazra/github-readme-stats)
