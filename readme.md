@@ -1,5 +1,8 @@
-## Fix your SEO. Secure your stack. Integrate AI the right way. - [TetsuKodai Group LLC](https://tetsukod.ai/)
-## Code is ephemeral. Intent is law. [AIDEMD.DEV](https://aidemd.dev/)
+## Fix your SEO. Secure your stack. Integrate AI the right way.
+[TetsuKodai Group LLC](https://tetsukod.ai/)
+
+## Code is ephemeral. Intent is law.
+[AIDEMD.DEV](https://aidemd.dev/)
 
 [my portfolio](https://fullstacknode.dev/)
 
