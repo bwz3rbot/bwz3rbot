@@ -4,6 +4,8 @@
 ## Code is ephemeral. Intent is law.
 [AIDEMD.DEV](https://aidemd.dev/)
 
+## Integrate Automated Intent Driven Engineering Into Your Workflows Today
+[@aidemd-mcp/server](https://github.com/aidemd-mcp/server)
 ---
 
 [my portfolio](https://fullstacknode.dev/)
